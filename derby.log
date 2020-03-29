@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 29 20:19:33 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-26c4-efad-00000877f800 
+on database directory memory:/Users/souravkantha/eclipse-workspace/corona_api_springboot/testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@153f5a29 
+Loaded from jar:file:/Users/souravkantha/eclipse-workspace/corona_api_springboot/target/microservices-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.3+12-LTS
+user.dir=/Users/souravkantha/eclipse-workspace/corona_api_springboot
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
